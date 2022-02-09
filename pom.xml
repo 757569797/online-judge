@@ -24,7 +24,7 @@
         <druid.version>1.1.20</druid.version>
         <swagger2.version>2.6.1</swagger2.version>
         <knife4j.version>2.0.2</knife4j.version>
-        <shiro.version>1.4.1</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <jwt.version>3.8.3</jwt.version>
         <disruptor.version>3.4.1</disruptor.version>
         <httpclient.version>4.5.6</httpclient.version>
