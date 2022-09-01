@@ -28,7 +28,7 @@
         <jwt.version>3.8.3</jwt.version>
         <disruptor.version>3.4.1</disruptor.version>
         <httpclient.version>4.5.6</httpclient.version>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <easyexcel.version>2.1.6</easyexcel.version>
         <lombok.version>1.18.10</lombok.version>
         <fastjson.version>1.2.62</fastjson.version>
